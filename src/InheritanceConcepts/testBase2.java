@@ -9,7 +9,7 @@ public class testBase2 {
 		
 		abcd.load();
 		
-		childClass acd =  new childClass();
+		parentClass acd =  new childClass();
 		acd.load();
 		
 		// Inheritance 

@@ -17,5 +17,14 @@ public class childClass extends parentClass {
  public void load() {
 		System.out.println("The loan method of child class");
 	}
+ 
+ // Inheritance 
+ 
+ //single inheritance 
+ 
+ //multiple inheritance  --> to acheive mutiple inheritance in java , Interface
+ 
+ 
+ //class a   class b class c
 
 }
