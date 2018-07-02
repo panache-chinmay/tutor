@@ -9,7 +9,7 @@ public class MainClass {
 //		classA b = new classA("Chinmay");
 		
 
-		//System.out.println(a.i);
+		//System.out.println(a.i);l
 		//int b = a.i;
 		//a.i = 56;
 		//System.out.println(a.i);

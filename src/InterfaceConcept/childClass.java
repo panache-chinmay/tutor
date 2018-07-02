@@ -30,7 +30,6 @@ public class childClass implements interfacec {
 		// TODO Auto-generated method stub
 		System.out.println("interest");
 	}
-
 	@Override
 	public void bal() {
 		// TODO Auto-generated method stub
