@@ -12,8 +12,9 @@ public class classBC  {
 		// TODO Auto-generated method stub
 		
 		classB dc = new classB();
-		dc.hh();
+		//dc.hh();
 
+		System.out.println("Hello");
 	}
 
 }
